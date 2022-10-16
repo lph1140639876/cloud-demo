@@ -8,6 +8,8 @@ class DemoApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("第二次的添加！！！！");
+        System.out.println("这样可以吗");
     }
 
 }
