@@ -10,6 +10,7 @@ class DemoApplicationTests {
     void contextLoads() {
         System.out.println("第二次的添加！！！！");
         System.out.println("这样可以吗");
+        System.out.println("push commit");
     }
 
 }
