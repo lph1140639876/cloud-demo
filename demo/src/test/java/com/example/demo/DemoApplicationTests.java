@@ -13,6 +13,8 @@ class DemoApplicationTests {
         System.out.println("push commit1");
         System.out.println("push commit2");
         System.out.println("push commit3");
+        System.out.println("pull 下来");
+        
     }
 
 }
